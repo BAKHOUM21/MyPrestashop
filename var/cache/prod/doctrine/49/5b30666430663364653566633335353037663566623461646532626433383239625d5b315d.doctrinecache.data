@@ -1,0 +1,18 @@
+1629838756
+s:2848:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 24 Aug 2021 18:59:17 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2731.jn-hebergement.com
+
+{"modules":[{"id":"22321","name":"ps_mainmenu","displayName":"Main menu","categoryName":"Menu","description":"Optimisez le parcours utilisateur sur votre site, s&eacute;lectionnez le lien de votre choix et faites-en une entr&eacute;e de votre menu","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/menu\/22321-main-menu.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22321.jpg","fullDescription":"Optimisez le parcours utilisateur sur votre site, s&eacute;lectionnez le lien de votre choix et faites-en une entr&eacute;e de votre menu.","additionalDescription":"Servez-vous de ce module pour :\r\n<ul>\r\n\t<li><strong>Faciliter la navigation sur votre site : <\/strong>simplifiez le parcours utilisateur en gardant une navigation fluide et le menu accessible &agrave; vos clients.<\/li>\r\n\t<li><strong>Augmenter la visibilit&eacute; de votre site : <\/strong>s&eacute;lectionnez le contenu et les mots-cl&eacute;s que vous voulez mettre en avant pour favoriser votre SEO.<\/li>\r\n<\/ul>\r\n","features":"S&eacute;lectionnez le contenu que vous souhaitez faire appara&icirc;tre dans votre menu, cela dessinera l&rsquo;arborescence de votre boutique et aidera vos visiteurs &agrave; s&rsquo;y retrouver.","customer_benefits":"","demo_video":"","version":"2.3.0","last_update":"2021-08-24 11:59:13","compatibility":{"from":"1.7.1.0","to":"1.7.8.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/1293758-pprod\/main-menu.jpg","big":"https:\/\/medias2.prestastore.com\/1293758-pbig\/main-menu.jpg"},"pictures":{"small":["https:\/\/medias1.prestastore.com\/1293759-pprod\/main-menu.jpg"],"big":["https:\/\/medias1.prestastore.com\/1293759-pbig\/main-menu.jpg"]}}]}";
